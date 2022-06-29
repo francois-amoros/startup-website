@@ -11,8 +11,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 
 body { 
-	font-family: 'Lora', serif;
-	font-size: 18px;
+    font-family: 'Lora', serif;
+    font-size: 18px;
     background-color: black;
 }
 h2, h3 {
@@ -41,7 +41,7 @@ a {
 
 
 .card {
-	justify-content: space-between;
+    justify-content: space-between;
     /* background: red; */
     padding: 30px;
     align-items: center;
@@ -49,5 +49,4 @@ a {
     border-radius: 6px;
     margin: 10px 10px;
     flex-basis: 250px;
-    flex-grow: 1;
-}
+    flex-grow: 1;}
